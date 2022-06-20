@@ -1,2 +1,3 @@
 # Task2
- JwtAPI
+## JwtAPI
+* Screenshots of the API are attached in screenshot folder.
